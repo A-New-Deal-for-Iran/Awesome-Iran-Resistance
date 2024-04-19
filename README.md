@@ -35,6 +35,9 @@
 * [پروژه حمایت از هنرمندان ایرانی](https://artisticfreedominitiative.org/projects/iranian-artists-support-project)
 * [آشپزی برای ایران](https://www.cookforiran.com)
 * [بنیاد امید](https://omidfoundation.com)
+* [برای زن زندگی آزادی](https://www.forwomenlifefreedom.com/about)
+* [انجمن عدالت ایرانیان](https://www.ijcollective.com)
+* [فکری دوباره برای ایران](https://www.rethinkingiran.com)
 
 # احزاب سیاسی
 
@@ -49,6 +52,7 @@
 * [ایران وایر](https://iranwire.com/fa/)
 * [رادیو زمانه](https://www.radiozamaneh.com)
 * [رادیو فردا](https://www.radiofarda.com)
+* [خبرگزاری هرانا](https://www.hra-news.org)
 * [ایندیپندنت فارسی](https://iranwire.com/fa/)
 * [بی بی سی فارسی](https://www.bbc.com/persian)
 * [ایران اینترنشنال](https://www.iranintl.com)
@@ -85,6 +89,8 @@
 * [لیست بازداشتی‌های مرداد و شهریور سال ۱۴۰۱](https://docs.google.com/spreadsheets/d/1uhfm9FWCcB7qw_i7LpJiP219CxXf_nPC8UiM_X-IQgk/edit#gid=735130915)
 * [متن آهنگ برای به فارسی و انگلیسی](https://drive.google.com/file/d/1BO48Wz5lN3tk8SN6Re8C7yMQtJc_dqtO/view)
 * [زن زندگی آزادی](https://www.womenlifefreedom.com)
+* [چگونه درمورد ایران صحبت کنیم](https://docs.google.com/document/d/13UWXqTnp_ZVKkaf4gizBpUtvFLMlSXUl_Ux_N3iEi6Q/edit)
+* [کمیته مراقبت از خبرنگاران](https://cpj.org/mideast/iran)
 
 ## پروژه‌های فنی کامپیوتری
 * [برای مردم‌گردانی](https://github.com/tcfev/Fordem)
@@ -105,15 +111,23 @@
 ## لباس
 * [پروژه ژین](https://www.thejinproject.com)
 * [نقاشی‌های آبی برای زن زندگی آزادی](https://www.bonfire.com/store/blue-illustrations-for-woman-life-freedom/)
+* [فروشگاه کوچه](https://www.kuchehdc.com/shop)
+* [فروشگاه نینا طاهری](https://www.ninatiari.com/store-1)
+* [فروشگاه Lebas نیویورک](https://lebas.nyc/collections/azadi)
+* [فروشگاه لباس The Azadi Co](https://www.theazadi.co/shop)
 
 # کتاب ها و منابع آموزشی
 * [مقاومت مدنی: آن‌چه همگان باید بدانند](https://t.me/kaleme/30940)
 * [از دیکتاتوری به دموکراسی](https://static1.squarespace.com/static/62b0eb7da51f3717911bb4e1/t/642f30faea911c386787f5b4/1680814330754/FDTD_Farsi.pdf)
 * [مبارزات مدنی خشونت پرهیز](https://www.aasoo.org/fa/file/16176/download?token=XrTsj2tb)
+* [کتاب‌خانه هرانا](https://www.hra-news.org/library)
 
 # اینترنت آزاد
 * [مهسا NG](https://github.com/GFW-knocker/MahsaNG)
- 
+
+# چه باید کرد؟
+* [فرم‌های همکاری با خبرگزاری هرانا](https://www.hra-news.org/forms0)
+  
 # شبکه‌های اجتماعی
 
 ## اینستاگرام
@@ -121,11 +135,13 @@
 * [از: ایران](https://www.instagram.com/from____iran/)
 * [انجمن سیاه‌های ایران](https://www.instagram.com/collectiveforblackiranians)
 * [زنان طراحی گرافیک ایران](https://www.instagram.com/iranianwomenofgraphicdesign/)
+* [حساب PostitForwardWLF](https://www.instagram.com/postitforwardwlf)
 
 ## تویتر
 * [هزار و پانصد تصویر برای کشته شدگان آبان ۹۸](https://twitter.com/1500tasvir)
 * [اتحاد جوانان محلات ایران](https://twitter.com/UYI_fa)
 * [جوکر نژاد](https://twitter.com/Jokernejad)
+  
 ## یوتیوب
 * [اتحاد برای ایران](https://www.youtube.com/@united4iran/videos)
 
@@ -133,5 +149,17 @@
 * [ایرانی جدید](https://old.reddit.com/r/NewIran)
 
 # چند رسانه ای
+
 ## موسیقی
 * [پلی لیست موسیقی‌های سال ۱۴۰۱](https://soundcloud.com/ps752justice/sets/mahsa-amini)
+
+## فیلم و سریال
+* [جاده خاکی](https://www.imdb.com/title/tt14812782)
+* [عنکبوت مقدس](https://www.imdb.com/title/tt18550140)
+* [برادران لیلا](https://www.imdb.com/title/tt19653180)
+* [هفت زمستان در ایران](https://www.imdb.com/title/tt26188684)
+* [پرسپولیس](https://www.imdb.com/title/tt0808417)
+* [گروگان‌ها](https://www.imdb.com/title/tt22074190)
+
+## پادکست
+بخش پادکست‌ها از پروژه [ایران علیه جمهوری اسلامی](https://docs.google.com/document/d/1DjSDd4MHlgEmXbuhWpV2g3RrVsEUpT0xKPVarzjkCKc/edit)
