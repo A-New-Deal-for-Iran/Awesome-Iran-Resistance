@@ -2,18 +2,39 @@
 
 لیستی از افراد، نهادها و پروژه‌هایی که درجهت مقابله با جمهوری اسلامی و برای ایرانی جدید تلاش می کنند.
 
+این لیست درحال جمع‌آوری هست و به مرور کامل‌تر خواهد شد. برای اضافه کردن لینک‌های بیشتر یا همکاری با این پروژه از بخش Issues استفاده بکنید.
+
 # افراد
+
+* [فریبرز کرمی زند](https://t.me/s/F_karamizand)
+
+## فعالین حقوق بشری
 * [نسرین ستوده](https://fa.wikipedia.org/wiki/%D9%86%D8%B3%D8%B1%DB%8C%D9%86_%D8%B3%D8%AA%D9%88%D8%AF%D9%87)
 * [شیرین عبادی](https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%D8%B9%D8%A8%D8%A7%D8%AF%DB%8C)
 * [نرگس محمدی](https://fa.wikipedia.org/wiki/%D9%86%D8%B1%DA%AF%D8%B3_%D9%85%D8%AD%D9%85%D8%AF%DB%8C)
 * [شادی صدر](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D8%AF%DB%8C_%D8%B5%D8%AF%D8%B1)
+* [فرزین کدخدایی](https://twitter.com/farzinkadkhodae)
+* [گسیو نیا](https://en.wikipedia.org/wiki/Gissou_Nia)
+
+## فعالین سیاسی
 * [امید معماریان](https://twitter.com/Omid_M)
-* [فریبرز کرمی زند](https://t.me/s/F_karamizand)
 * [مسیح علی‌نژاد](https://fa.wikipedia.org/wiki/%D9%85%D8%B3%DB%8C%D8%AD_%D8%B9%D9%84%DB%8C%E2%80%8C%D9%86%DA%98%D8%A7%D8%AF)
 * [سام رجبی](https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85_%D8%B1%D8%AC%D8%A8%DB%8C)
 * [حسین رونقی](https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%DB%8C%D9%86_%D8%B1%D9%88%D9%86%D9%82%DB%8C)
 * [حامد اسماعیلیون](https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%85%D8%AF_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C%D9%88%D9%86)
 * [شادی امین](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D8%AF%DB%8C_%D8%A7%D9%85%DB%8C%D9%86)
+* [علی‌رضا آخوندی](https://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7_%D8%A2%D8%AE%D9%88%D9%86%D8%AF%DB%8C)
+* [عمار ملکی](https://www.tilburguniversity.edu/staff/a-maleki)
+* [هما سرشار](https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%A7_%D8%B3%D8%B1%D8%B4%D8%A7%D8%B1)
+
+## خبرنگارها
+* [نیلوفر حامدی](https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1_%D8%AD%D8%A7%D9%85%D8%AF%DB%8C)
+* [فرزاد صیفی‌کاران](https://twitter.com/fseifikaran)
+
+## سلبریتی‌‌ها
+* [گلشیفته فراهانی](https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D8%B4%DB%8C%D9%81%D8%AA%D9%87_%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C)
+* [علی کریمی](https://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%DA%A9%D8%B1%DB%8C%D9%85%DB%8C)
+* [آرش صبحانی](https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%B4_%D8%B3%D8%A8%D8%AD%D8%A7%D9%86%DB%8C)
 
 # نهاد‌ها
 
@@ -38,6 +59,7 @@
 * [برای زن زندگی آزادی](https://www.forwomenlifefreedom.com/about)
 * [انجمن عدالت ایرانیان](https://www.ijcollective.com)
 * [فکری دوباره برای ایران](https://www.rethinkingiran.com)
+* [کمپین فعالین بلوچ](https://balochcampaign.us)
 
 # احزاب سیاسی
 
@@ -70,6 +92,7 @@
 * [َUnited4Mahsa](https://www.instagram.com/united4mahsa)
 * [Montreh Tavakkoli](http://www.instagram.com/montrehtavakkoli)
 * [Iran Detainees Reports](https://www.instagram.com/irandetaineesreports)
+* [Azadi Daily](https://www.instagram.com/azadi.daily)
 
 ## منابع خبری آلمانی
 * [Klaas Heufer-Umlauf](https://www.instagram.com/damitdasklaas/)
@@ -122,6 +145,9 @@
 * [مبارزات مدنی خشونت پرهیز](https://www.aasoo.org/fa/file/16176/download?token=XrTsj2tb)
 * [کتاب‌خانه هرانا](https://www.hra-news.org/library)
 
+## داستان مصور
+* [داستان‌های مصور امیر سطانی](http://www.amirsoltani.org/publications.html)
+
 # اینترنت آزاد
 * [مهسا NG](https://github.com/GFW-knocker/MahsaNG)
 
@@ -141,6 +167,7 @@
 * [هزار و پانصد تصویر برای کشته شدگان آبان ۹۸](https://twitter.com/1500tasvir)
 * [اتحاد جوانان محلات ایران](https://twitter.com/UYI_fa)
 * [جوکر نژاد](https://twitter.com/Jokernejad)
+
   
 ## یوتیوب
 * [اتحاد برای ایران](https://www.youtube.com/@united4iran/videos)
