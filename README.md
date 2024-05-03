@@ -5,6 +5,7 @@
 این لیست درحال جمع‌آوری هست و به مرور کامل‌تر خواهد شد. برای اضافه کردن لینک‌های بیشتر یا همکاری با این پروژه از بخش Issues استفاده بکنید.
 
 # افراد
+ افراد مطرح که اکثر زمان یا فعالیت شبکه‌های اجتماعی خود را صرف مقابله با جمهوری اسلامی کرده اند. معیار مطرح بودن داشتن صفحه ویکی‌پیدا، ایجاد آثار هنری و نوشتاری و یا مخاطبین بالا در شبکه‌های اجتماعی هست.
 
 * [فریبرز کرمی زند](https://t.me/s/F_karamizand)
 * [موج مهردا](https://en.wikipedia.org/wiki/Moj_Mahdara)
@@ -47,32 +48,39 @@
 * [رویا رستگار](https://storyistruth.com)
 
 # نهاد‌ها
+نهادهایی که با متمرکز به اطلاع رسانی درمورد مشکلات ایران و یا پیدا کردن راهی برای حل آنها هستند.
+
+* [گروه هکری عدالت علی](https://www.edaalat.org/home)
+* [گروه هکری تپندگان](https://t.me/s/tapandegan_official)
+* [شورای شهروندان برای آیندۀ ایران](https://www.globaliranianassociation.com)
+* [آزادی بیان](https://www.azadi-b.com)
+* [آرشیو اسناد اپوزسیون ایران](https://www.iran-archive.com/fa)
+* [انجمن دسپورای ایرانیان](https://www.iraniandiasporacollective.com)
+* [پروژه حمایت از هنرمندان ایرانی](https://artisticfreedominitiative.org/projects/iranian-artists-support-project)
+* [آشپزی برای ایران](https://www.cookforiran.com)
+* [بنیاد امید](https://omidfoundation.com)
+* [برای زن زندگی آزادی](https://www.forwomenlifefreedom.com/about)
+* [فکری دوباره برای ایران](https://www.rethinkingiran.com)
+* [صدای ایران باش (به انگلیسی](https://beiransvoice.com)
+
+## بنیادهای حقوق بشری
 
 * [مرکز اسناد حقوق بشر ایران](https://iranhrdc.org)
 * [اتحاد برای ایران](https://united4iran.org)
 * [عدالت برای ایران](https://justice4iran.org/persian/)
 * [بنیاد عبدالرحمن برومند](https://www.iranrights.org/fa/)
 * [سازمان عفو بین‌الملل](https://fa.amnesty.org)
-* [گروه هکری عدالت علی](https://www.edaalat.org/home)
-* [گروه هکری تپندگان](https://t.me/s/tapandegan_official)
-* [شورای شهروندان برای آیندۀ ایران](https://www.globaliranianassociation.com)
-* [آزادی بیان](https://www.azadi-b.com)
 * [انجمن دادخواهی جانباختگان پرواز PS752 اوکراینی](https://www.ps752justice.com)
-* [آرشیو اسناد اپوزسیون ایران](https://www.iran-archive.com/fa)
 * [سازمان رهایی زنان](https://rahaizanorg.blogspot.com)
-* [انجمن دسپورای ایرانیان](https://www.iraniandiasporacollective.com)
 * [سازمان حقوق بشر ایران](https://iranhr.net/fa)
 * [کمپین حقوق بشر ایران](https://persian.iranhumanrights.org)
-* [پروژه حمایت از هنرمندان ایرانی](https://artisticfreedominitiative.org/projects/iranian-artists-support-project)
-* [آشپزی برای ایران](https://www.cookforiran.com)
-* [بنیاد امید](https://omidfoundation.com)
-* [برای زن زندگی آزادی](https://www.forwomenlifefreedom.com/about)
 * [انجمن عدالت ایرانیان](https://www.ijcollective.com)
-* [فکری دوباره برای ایران](https://www.rethinkingiran.com)
 * [کمپین فعالین بلوچ](https://balochcampaign.us)
 * [شبکه حقوق بشر کردستان](https://kurdistanhumanrights.org/fa)
 
+
 # احزاب سیاسی
+احزابی که به صورت متمرکز و سازمان یافته جهت مقابله با جمهوری اسلامی عمل میکنند.
 
 * [ جنبش جمهوری خواهان دموکرات و لائیک ایران](http://nedayeazady.org/)
 * [اتحاد جمهوری‌خواهان ایران](http://jomhouri.com/jomhouri/)
@@ -80,6 +88,7 @@
 * [حزب ایران نوین](https://irannovin.party)
 
 # خبرگزاری ها
+خبرگزاری‌هایی که اکثر تمرکز آنها بر روی اطلاع‌رسانی درمورد مشکلات موجود در ایران هست و تحت نظارت مطبوعاتی جمهوری اسلامی نیستند.
 
 * [سازمان حقوق بشری هەنگاو](https://hengaw.net/fa)
 * [ایران وایر](https://iranwire.com/fa/)
@@ -104,16 +113,22 @@
 * [Montreh Tavakkoli](http://www.instagram.com/montrehtavakkoli)
 * [Iran Detainees Reports](https://www.instagram.com/irandetaineesreports)
 * [Azadi Daily](https://www.instagram.com/azadi.daily)
+* [WeAreIranianStudents](https://www.instagram.com/weareiranianstudents)
 
 ## منابع خبری آلمانی
 * [Klaas Heufer-Umlauf](https://www.instagram.com/damitdasklaas/)
 
+## منابع خبری فرانسوی
+* [Femme Azadi](https://www.instagram.com/femmeazadi)
+
 # تشکل‌های محلی
+تشکل‌های محلی و شهری در ایران و سراسر دنیا که در محدوده جغرافیایی خود در جهت مقابله با جمهوری اسلامی تلاش میکنند.
 
 ## آمریکا
 * [زن زندگی آزادی نیورک](https://www.instagram.com/womanlifefreedomnyc)
 
 # پروژه‌ها
+پروژه‌ها و آثار منتشر شده که در جهت به کمک به ایجاد ایرانی جدید ایجاد شده‌اند.
 
 * [وب سایت شعارهای تجمعات](https://www.yekseda.org/en-US/slogans)
 * [لیستی شعار برای تحمعات](https://docs.google.com/spreadsheets/d/1w0H2AjCpgUHJzWlpVDr5vs4iGb22UWMbWlVNCjMTz50/edit#gid=0)
@@ -153,6 +168,7 @@
 * [فروشگاه لباس The Azadi Co](https://www.theazadi.co/shop)
 
 # کتاب ها و منابع آموزشی
+منابع آموزشی و تاثیرگذار در مبارزه با جمهوری اسلامی
 * [مقاومت مدنی: آن‌چه همگان باید بدانند](https://t.me/kaleme/30940)
 * [از دیکتاتوری به دموکراسی](https://static1.squarespace.com/static/62b0eb7da51f3717911bb4e1/t/642f30faea911c386787f5b4/1680814330754/FDTD_Farsi.pdf)
 * [مبارزات مدنی خشونت پرهیز](https://www.aasoo.org/fa/file/16176/download?token=XrTsj2tb)
@@ -162,19 +178,27 @@
 * [داستان‌های مصور امیر سطانی](http://www.amirsoltani.org/publications.html)
 
 # اینترنت آزاد
+پروژه‌ها و برنامه‌هایی که در جهت ایجاد مقابل به سانسور و فیلترینگ جمهوری اسلامی عمل میکنند.
+
 * [مهسا NG](https://github.com/GFW-knocker/MahsaNG)
+* [اینترنت آزاد برای همه](https://ircf.space/)
 
 # چه باید کرد؟
+راه‌کارهایی برای مقابله عملی، مادی و یا معنوی با جمهوری اسلامی
 * [فرم‌های همکاری با خبرگزاری هرانا](https://www.hra-news.org/forms0)
   
 # شبکه‌های اجتماعی
+حساب‌های کاربریی که اکثر تمرکزشان بر روی مشکلات داخل ایران هست.
 
 ## اینستاگرام
 * [دیاسپورا برای ایران](https://www.instagram.com/diasporaforiran/)
 * [از: ایران](https://www.instagram.com/from____iran/)
 * [انجمن سیاه‌های ایران](https://www.instagram.com/collectiveforblackiranians)
 * [زنان طراحی گرافیک ایران](https://www.instagram.com/iranianwomenofgraphicdesign/)
-* [حساب PostitForwardWLF](https://www.instagram.com/postitforwardwlf)
+* [حساب PostitForwardWLF](https://www.instagram.com/postitforwardwlf
+* [آزاده افساحی](https://www.instagram.com/azadeh.afsahi)
+* [راییکا یسايی](https://www.instagram.com/raeekayassaie)
+* [حساب ActionForIran](https://www.instagram.com/action_for_iran)
 
 ## تویتر
 * [هزار و پانصد تصویر برای کشته شدگان آبان ۹۸](https://twitter.com/1500tasvir)
@@ -189,6 +213,7 @@
 * [ایرانی جدید](https://old.reddit.com/r/NewIran)
 
 # چند رسانه ای
+محتواهای چند رسانه‌ای که درجهت اطلاع‌رسانی و آگاه‌سازی مشکلات ایران ساخته شده‌اند.
 
 ## موسیقی
 * [پلی لیست موسیقی‌های سال ۱۴۰۱](https://soundcloud.com/ps752justice/sets/mahsa-amini)
@@ -205,5 +230,5 @@
 بخش پادکست‌ها از پروژه [ایران علیه جمهوری اسلامی](https://docs.google.com/document/d/1DjSDd4MHlgEmXbuhWpV2g3RrVsEUpT0xKPVarzjkCKc/edit)
 
 # منابع
-پروژه‌های زیر منابع این پروژه بوده‌اند.
-۰ https://github.com/Jiwe-Mobarez/Awesome-Iran-Resistance
+پروژه‌ [Awesome-Iran-Resistance](https://github.com/Jiwe-Mobarez/Awesome-Iran-Resistance) منبع ابتدایی این پروژه بوده و به مرور زمان سایر موارد نیز اضافه شده اند.
+۰ 
