@@ -7,14 +7,19 @@
 # افراد
 
 * [فریبرز کرمی زند](https://t.me/s/F_karamizand)
+* [موج مهردا](https://en.wikipedia.org/wiki/Moj_Mahdara)
+* [نینا انصاری](https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%86%D8%A7_%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C)
 
 ## فعالین حقوق بشری
 * [نسرین ستوده](https://fa.wikipedia.org/wiki/%D9%86%D8%B3%D8%B1%DB%8C%D9%86_%D8%B3%D8%AA%D9%88%D8%AF%D9%87)
 * [شیرین عبادی](https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%DB%8C%D9%86_%D8%B9%D8%A8%D8%A7%D8%AF%DB%8C)
 * [نرگس محمدی](https://fa.wikipedia.org/wiki/%D9%86%D8%B1%DA%AF%D8%B3_%D9%85%D8%AD%D9%85%D8%AF%DB%8C)
 * [شادی صدر](https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D8%AF%DB%8C_%D8%B5%D8%AF%D8%B1)
+* [لادن پرومند](https://www.ladanboroumand.com/fa)
+* [رویا برومند](https://twitter.com/royaboroumand)
 * [فرزین کدخدایی](https://twitter.com/farzinkadkhodae)
 * [گسیو نیا](https://en.wikipedia.org/wiki/Gissou_Nia)
+* [نازنین افشین جم](https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%B2%D9%86%DB%8C%D9%86_%D8%A7%D9%81%D8%B4%DB%8C%D9%86_%D8%AC%D9%85)
 
 ## فعالین سیاسی
 * [امید معماریان](https://twitter.com/Omid_M)
@@ -26,15 +31,20 @@
 * [علی‌رضا آخوندی](https://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7_%D8%A2%D8%AE%D9%88%D9%86%D8%AF%DB%8C)
 * [عمار ملکی](https://www.tilburguniversity.edu/staff/a-maleki)
 * [هما سرشار](https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%A7_%D8%B3%D8%B1%D8%B4%D8%A7%D8%B1)
+* [کریم سجادپور](https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%DB%8C%D9%85_%D8%B3%D8%AC%D8%A7%D8%AF%D9%BE%D9%88%D8%B1)
 
 ## خبرنگارها
 * [نیلوفر حامدی](https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1_%D8%AD%D8%A7%D9%85%D8%AF%DB%8C)
 * [فرزاد صیفی‌کاران](https://twitter.com/fseifikaran)
+* [سامان اربابی](https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86_%D8%A7%D8%B1%D8%A8%D8%A7%D8%A8%DB%8C)
 
-## سلبریتی‌‌ها
+## سلبریتی‌‌ها و هنرمندان
 * [گلشیفته فراهانی](https://fa.wikipedia.org/wiki/%DA%AF%D9%84%D8%B4%DB%8C%D9%81%D8%AA%D9%87_%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C)
 * [علی کریمی](https://fa.wikipedia.org/wiki/%D8%B9%D9%84%DB%8C_%DA%A9%D8%B1%DB%8C%D9%85%DB%8C)
 * [آرش صبحانی](https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%D8%B4_%D8%B3%D8%A8%D8%AD%D8%A7%D9%86%DB%8C)
+* [نازنین نور](https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%B2%D9%86%DB%8C%D9%86_%D9%86%D9%88%D8%B1)
+* [نازنین بنیادی](https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%B2%D9%86%DB%8C%D9%86_%D8%A8%D9%86%DB%8C%D8%A7%D8%AF%DB%8C)
+* [رویا رستگار](https://storyistruth.com)
 
 # نهاد‌ها
 
@@ -60,6 +70,7 @@
 * [انجمن عدالت ایرانیان](https://www.ijcollective.com)
 * [فکری دوباره برای ایران](https://www.rethinkingiran.com)
 * [کمپین فعالین بلوچ](https://balochcampaign.us)
+* [شبکه حقوق بشر کردستان](https://kurdistanhumanrights.org/fa)
 
 # احزاب سیاسی
 
@@ -120,6 +131,8 @@
 * [باز‌متن باز‌علم ایران](https://github.com/ososIran)
 * [اینترنت آزاد برای ایران](https://github.com/InternetForIran)
 * [ما مهسا امینی هستیم](https://github.com/WeAreMahsaAmini)
+* [افزونه اضافه کردن خودکار هشتگ به توییت‌ها](https://github.com/seraheazari/MahsaAminiHashflag)
+* [لیست توییت‌های "برای" در ستامبر ۲۰۲۲](https://github.com/barayeha/barayeha-db)
   
 ## آثار هنری
 * [پوستر برای تجمعات](https://drive.google.com/drive/folders/1x5ltclswHy8zhv-gbR3FK8GfhNfmoB_t)
@@ -190,3 +203,7 @@
 
 ## پادکست
 بخش پادکست‌ها از پروژه [ایران علیه جمهوری اسلامی](https://docs.google.com/document/d/1DjSDd4MHlgEmXbuhWpV2g3RrVsEUpT0xKPVarzjkCKc/edit)
+
+# منابع
+پروژه‌های زیر منابع این پروژه بوده‌اند.
+۰ https://github.com/Jiwe-Mobarez/Awesome-Iran-Resistance
